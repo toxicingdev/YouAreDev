@@ -1,2 +1,1 @@
-# YouAreDev
-loadstrings
+# Scripter
